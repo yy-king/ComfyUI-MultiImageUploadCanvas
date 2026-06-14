@@ -10,6 +10,7 @@
 - 拖拽缩略图可调整输出顺序。
 - 输出项：`image1`、`image2`、`image3`。
 - `image1` 为必填项。
+- 允许拖拽调整图片顺序。
 - 若可选输出项为空，则返回与 `image1` 尺寸一致的黑色占位图，以确保后续工作流能正常运行。
 
 <img width="2559" height="1203" alt="img_v3_0212m_21df24f8-4298-4442-b9d8-f3e9905f3afg" src="https://github.com/user-attachments/assets/45bcd753-80b0-4d9c-8da0-ad30ec9c9e08" />
