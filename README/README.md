@@ -10,5 +10,8 @@
 - 拖拽缩略图可调整输出顺序。
 - 输出项：`image1`、`image2`、`image3`。
 - `image1` 为必填项。
-- 若可选输出项为空，则返回与 `image1` 尺寸一致的黑色占位图，以确保后续工作流能正常运行。![Alt text](./img_v3_0212m_21df24f8-4298-4442-b9d8-f3e9905f3afg.jpg)
-![Alt text](./img_v3_0212m_1e1dfa87-9532-4028-86d6-89b1d56912eg.jpg)
+- 若可选输出项为空，则返回与 `image1` 尺寸一致的黑色占位图，以确保后续工作流能正常运行。
+
+https://github.com/yy-king/ComfyUI-MultiImageUploadCanvas/blob/main/README/ex1.jpg
+https://github.com/yy-king/ComfyUI-MultiImageUploadCanvas/blob/main/README/ex2.jpg
+https://github.com/yy-king/ComfyUI-MultiImageUploadCanvas/blob/main/README/ex3.jpg
